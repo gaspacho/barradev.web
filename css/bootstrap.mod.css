@@ -1,0 +1,57 @@
+
+body {
+font-family: 'Open Sans', sans-serif;
+margin-top: 100px;
+background-image: url('/img/logo.png');
+background-repeat: no-repeat;
+
+}
+
+
+.header {
+
+}
+
+.giant {
+font-size: 6em;
+font-family: 'PT Sans', sans-serif; 
+}
+
+
+
+.top-margin-1 {
+margin-top: 50px;
+}
+
+.top-margin-2 {
+margin-top: 100px;
+}
+
+
+
+
+#nav:before {
+
+display: block;
+margin: 0 auto 0.35em auto;
+border-radius: 100%;
+background: transparent;
+font-size: 2.75em;
+width: 2.1em;
+height: 2.1em;
+line-height: 2.1em;
+text-align: center;
+box-shadow: 0 0 0 1px #dee0e3;
+cursor: default;
+transition: all 0.2s ease-in-out;
+}
+
+
+
+footer {
+background: #1a1a1a;
+border-top: 2px solid;
+border-color: #8500ff;
+color: #7c8081;
+padding: 5em 5em 10em 5em;
+}
